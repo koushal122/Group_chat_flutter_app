@@ -1,16 +1,17 @@
 # chatting_app
 
-A new Flutter project.
+it is the flutter app in a group of users can register and char with each other.
+
+Library used :- 
+ --> Firebase Authentication
+ --> Firebase Firestore
+ --> Animation Library
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+below is the small recoding of app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/68633415/214276138-3ef552b0-d452-4c9d-bdd7-0c8ac1435b13.mp4" width="250" height="450" title="screen recoding of app">
+ 
+</p>
