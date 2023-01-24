@@ -101,7 +101,7 @@ class messageStream extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return StreamBuilder<QuerySnapshot>(
-        stream: firestore.collection('messages').orderBy().snapshots(),
+        stream: firestore.collection('messages').snapshots(),
         builder:(context,snapshots){
           List<customWidget> widgets=[];
           if(snapshots.hasData){
